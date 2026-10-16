@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Dataset and generated data
+data/
+
+# Logs
+logs/
+test_logs/
+
+# Model weights and generated models
+model/
+
+# Presentation files
+*.pptx
+
+# Python cache
+__pycache__/
+*.py[cod]
